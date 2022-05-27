@@ -11,6 +11,23 @@ img {
   border: 1px solid white ;
 }
 
+.contact p {
+  text-align: center;
+  font-style: bold;
+  font-size: 25px;
+}
+
+.contact ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.contact ul li {
+  display: inline-block;
+  margin-left: 20%;
+}
+
 .underline {
   text-decoration-line: underline;
 }
