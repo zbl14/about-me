@@ -2,7 +2,7 @@
 
 #### By Zhibin Liang
 
-#### A website lists coding project created by Zhibin and introduces a little bit about him.
+#### A website lists coding projects created by Zhibin and introduces a little bit about him.
 
 ## Technologies Used
 
