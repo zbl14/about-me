@@ -48,7 +48,7 @@ h1 {
   text-decoration: underline;
 }
 
-/* Box for section of coding project list and about me */
+/* Box for section of coding project list and about me_background */
 .box {
   margin: 5px;
   padding: 0% 5% 0% 5%;
@@ -64,12 +64,12 @@ h1 {
 }
 
 
-/* About me section */
+/* About me_background*/
 .underline {
   text-decoration-line: underline;
 }
 
-/* My interest-and-skills section */
+/* About me_interest-and-skills */
 #box {
   margin: 5px;
   padding: 0% 5% 0% 5%;
