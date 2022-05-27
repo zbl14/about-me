@@ -17,4 +17,7 @@
 
 * Lack of responsive design at this momment. Will fix it in a near future.
 
+## License
+MIT
+
 Copyright &copy; 2022 Zhibin Liang
