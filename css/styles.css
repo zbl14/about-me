@@ -78,6 +78,7 @@ h1 {
 
 .inline-flex {
   display: inline-flex;
+  margin: auto;
 }
 
 #interest-and-skills {
@@ -86,6 +87,6 @@ h1 {
   height: 250px;
   margin: 10px;
   border: 2px solid black;
-  padding: 5px;
-  background-color: bisque;opacity: 0.9;
+  padding: 10px 50px 10px 50px;
+  background-color:blanchedalmond
 }
