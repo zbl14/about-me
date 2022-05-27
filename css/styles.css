@@ -14,7 +14,7 @@ h1 {
   text-align: center;
 }
 
-img {
+.header img {
   display: block;
   margin: auto;
   width: 200px;
@@ -48,13 +48,21 @@ img {
   text-decoration: underline;
 }
 
-/* box for all sections except header */
+/* Box for section of coding project list and about me */
 .box {
   margin: 5px;
   padding: 0% 5% 0% 5%;
   display: block;
   border: 2px solid black;
 }
+
+/* Coding prjoect list secction */
+.box ul img {
+  float: right;
+  width: 50%;
+  border: 2px solid black;
+}
+
 
 /* About me section */
 .underline {
