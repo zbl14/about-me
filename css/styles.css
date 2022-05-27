@@ -1,3 +1,14 @@
 .underline {
   text-decoration-line: underline;
 }
+
+.interest-and-skills  {
+  display: block;
+  width: 25%;
+  height: 250px;
+  float: left;
+  margin: 10px;
+  border: 2px solid black;
+  padding: 5px;
+  background-color: bisque;opacity: 0.9;
+}
