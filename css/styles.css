@@ -3,6 +3,7 @@ body {
   padding: 0;
 }
 
+/* Header section */
 header {
   background-color: aliceblue;
   font-family: Arial, Helvetica, sans-serif;
@@ -39,10 +40,28 @@ img {
   margin-left: 20%;
 }
 
+.contact ul li a {
+  text-decoration: none;
+}
+
+.contact ul li a:hover {
+  text-decoration: underline;
+}
+
+/* box for all sections except header */
+.box {
+  margin: 5px;
+  padding: 0% 5% 0% 5%;
+  display: block;
+  border: 2px solid black;
+}
+
+/* About me section */
 .underline {
   text-decoration-line: underline;
 }
 
+/* My interest-and-skills section */
 .interest-and-skills  {
   display: block;
   width: 25%;
