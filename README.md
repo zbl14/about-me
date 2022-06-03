@@ -11,7 +11,11 @@
 
 ## Applicaiton setup instruction
 
-* Clone this repository(https://github.com/zbl14/about-me.git) to your desktop.
+1. Clone the repo to your desktop
+    ```sh
+    git clone (https://github.com/zbl14/about-me.git)
+    ```
+2. Open index.html file
 
 ## Known Bugs
 
