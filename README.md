@@ -11,7 +11,7 @@
 
 ## Applicaiton setup instruction
 
-1. Clone the repo to your desktop
+1. Clone the repo
     ```sh
     git clone (https://github.com/zbl14/about-me.git)
     ```
